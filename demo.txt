@@ -5,5 +5,4 @@ This is demo code for new batch
 we are working on Git functionality
 topic covered 
 oop
-string
 array list
